@@ -166,4 +166,4 @@ to manage all URLs visually.
 
 ## Deployment
 
-Live URL: `https://your-app-name.onrender.com`
+Live URL: `https://url-shortener-euk6.onrender.com`
